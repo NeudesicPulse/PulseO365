@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="71d68e80-7861-45ad-8254-f6b2dd0db6d8" solutionId="71d68e80-7861-45ad-8254-f6b2dd0db6d8" resetWebServer="false" name="Neudesic.Pulse.SharePoint.Online" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="65a60967-8389-4d4e-80cd-b969a5a51c01" />
+  </features>
+</package>

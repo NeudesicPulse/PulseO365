@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="CurrentUserFeed" List="113" Url="_catalogs/wp">
+    <File Path="CurrentUserFeed\CurrentUserFeed.webpart" Url="CurrentUserFeed.webpart" Type="GhostableInLibrary">
+      <Property Name="Group" Value="Pulse for SharePoint Online" />
+    </File>
+  </Module>
+</Elements>
